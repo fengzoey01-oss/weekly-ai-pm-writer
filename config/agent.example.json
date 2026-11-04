@@ -1,0 +1,12 @@
+{
+  "format": "documentation-example-not-runtime-config",
+  "enabled": false,
+  "timezone": "Asia/Shanghai",
+  "schedule_hint": "每周二 09:30，由用户在自己的调度器设置",
+  "input_directory": "./private/weekly-notes",
+  "output_directory": "./output/drafts",
+  "require_source_material": true,
+  "require_review_before_sync": true,
+  "auto_publish": false,
+  "cloud_destination": null
+}

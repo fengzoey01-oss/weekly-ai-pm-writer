@@ -1,0 +1,4 @@
+interface:
+  display_name: "每周 AI 产品文章 Agent"
+  short_description: "通用工作流、虚构示例与明确的使用边界"
+  default_prompt: "使用 $weekly-ai-pm-writer，基于我提供的材料完成任务；缺失事实请明确标注。"
